@@ -1,3 +1,1 @@
- const SHEET_ID = '1DJ3oq6pRXbnt_yCfCwgWoDsUCYu-UVuc_UppNsQ3jZs';
-    const API_KEY = 'AIzaSyDfp9sC09FVbpFLKO9iW65VPneEPvIyIHU';
-    const range = 'Sheet1!A1:B5'; 
+
